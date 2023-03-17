@@ -354,3 +354,32 @@
           cursor: pointer;
           position: absolute;
         }
+        .first{
+          background-color: darkslategray;
+          width: 1425px;
+          height: 500px;
+          margin-left: -68px;
+          margin-top: 680px;
+          position: absolute;
+          
+        }
+        .second{
+          background-color: darkslategray;
+          width: 275px;
+          height: 180px;
+          margin-left: 8px;
+          margin-top: 631px;
+          border: 2px solid rgb(43, 43, 43);
+          position: absolute;
+          
+        }
+        .third{
+          background-color: darkslategray;
+          width: 275px;
+          height: 180px;
+          margin-left: 339px;
+          margin-top: 631px;
+          border: 2px solid rgb(43, 43, 43);
+          position: absolute;
+          
+        }
