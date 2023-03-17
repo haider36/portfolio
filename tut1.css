@@ -393,17 +393,66 @@
           position: absolute;
         }
         .img1{
-            margin-left: 178px;
-            margin-top: 703px;
+          margin-left: 199px;
+          margin-top: 719px;
           position: absolute;
+          cursor: pointer;
         }
         .img2{
-          margin-left: 533px;
-          margin-top: 703px;
+          margin-left: 560px;
+          margin-top: 719px;
+          cursor: pointer;
         position: absolute;
       }
       .img3{
-        margin-left: 901px;
-        margin-top: 703px;
+        margin-left: 935px;
+        margin-top: 719px;
+        cursor: pointer;
       position: absolute;
     }
+    .hh4{
+      margin-top: 774px;
+      margin-left: 223px;
+      position: absolute;
+      font-family: sans-serif;
+      color: white;
+      font-size: 22px;
+    }
+    .p111{
+      margin-top: 820px;
+      margin-left: 190px;
+      position: absolute;
+      font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
+      color: white;
+      font-size: 20px;
+    }
+    .hh5{
+      margin-top: 774px;
+      margin-left: 579px;
+      position: absolute;
+      font-family: sans-serif;
+      color: white;
+      font-size: 22px;}
+      .p112{
+        margin-top: 808px;
+        margin-left: 545px;
+        position: absolute;
+        font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
+        color: white;
+        font-size: 20px;
+      }
+      .hh6{
+        margin-top: 775px;
+        margin-left: 956px;
+        position: absolute;
+        font-family: sans-serif;
+        color: white;
+        font-size: 22px;}
+        .p113{
+          margin-top: 808px;
+          margin-left: 900px;
+          position: absolute;
+          font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
+          color: white;
+          font-size: 20px;
+        }
