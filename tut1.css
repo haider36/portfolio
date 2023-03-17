@@ -234,7 +234,7 @@
   .div100 {
     background-color: #202021;
     width: 1425px;
-    height: 500px;
+    height: 615px;
     margin-left: -68px;
     margin-top: 183px;
     position: absolute;
@@ -359,27 +359,51 @@
           width: 1425px;
           height: 500px;
           margin-left: -68px;
-          margin-top: 680px;
+          margin-top: 797px;
           position: absolute;
           
         }
         .second{
           background-color: darkslategray;
-          width: 275px;
-          height: 180px;
-          margin-left: 8px;
-          margin-top: 631px;
-          border: 2px solid rgb(43, 43, 43);
+          width: 281px;
+          height: 204px;
+          margin-left: 167px;
+          margin-top: 695px;
+          border: 1px solid rgb(43, 43, 43);
           position: absolute;
           
         }
         .third{
           background-color: darkslategray;
-          width: 275px;
-          height: 180px;
-          margin-left: 339px;
-          margin-top: 631px;
-          border: 2px solid rgb(43, 43, 43);
+          width: 281px;
+          height: 204px;
+          margin-left: 521px;
+          margin-top: 695px;
+          border: 1px solid rgb(43, 43, 43);
           position: absolute;
           
         }
+        .forth{
+          background-color: darkslategray;
+          width: 281px;
+          height: 204px;
+          margin-left: 888px;
+          margin-top: 695px;
+          border: 1px solid rgb(43, 43, 43);
+          position: absolute;
+        }
+        .img1{
+            margin-left: 178px;
+            margin-top: 703px;
+          position: absolute;
+        }
+        .img2{
+          margin-left: 533px;
+          margin-top: 703px;
+        position: absolute;
+      }
+      .img3{
+        margin-left: 901px;
+        margin-top: 703px;
+      position: absolute;
+    }
