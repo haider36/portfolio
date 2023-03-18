@@ -403,9 +403,10 @@
           margin-top: 719px;
           cursor: pointer;
         position: absolute;
+        overflow: scroll;
       }
       .img3{
-        margin-left: 935px;
+        margin-left: 919px;
         margin-top: 719px;
         cursor: pointer;
       position: absolute;
