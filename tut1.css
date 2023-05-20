@@ -383,6 +383,10 @@
           position: absolute;
           
         }
+        .Big{
+          width: 200px;
+          height: 200px;
+        }
         .forth{
           background-color: darkslategray;
           width: 281px;
